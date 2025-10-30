@@ -1,12 +1,18 @@
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
   Hi, I'm <a href="http://www.dev.subfactory.net/"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Olympicson's GitHub Avatar" width="60px"/> Olympicson</a>!
-  <img align="right" src="https://img.shields.io/badge/Profile%20Views-52,307-0077B5" alt="GitHub profile views counter">
+  <a href="https://www.loom.com/share/17f58da0384f430c818385644a6d1476" target="_blank">
+      <img align="right" src="https://img.shields.io/badge/Watch%20My%20Intro%20on-Loom-blue?logo=loom" alt="Watch on Loom" />
+    </a>
+  <!-- <img align="right" src="https://img.shields.io/badge/Profile%20Views-52,307-0077B5" alt="GitHub profile views counter"> -->
 </h1>
 
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akinsiraifedayo&show_icons=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akinsiraifedayo) -->
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Coding like it’s 2050, but debugging like it’s 1999.</div> 
 
@@ -14,6 +20,11 @@
 <ul>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>London, UK</strong>
+  </li>
+  <li>
+    <a href="https://www.loom.com/share/17f58da0384f430c818385644a6d1476" target="_blank">
+      <img src="https://img.shields.io/badge/Watch%20My%20Intro%20on-Loom-blue?logo=loom" alt="Watch on Loom" />
+    </a>
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="http://www.dev.subfactory.net/" target="_blank"><strong>Portfolio</strong></a>
